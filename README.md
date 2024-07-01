@@ -8,15 +8,15 @@ Bem-vindo ao meu portfólio no GitHub! Aqui você encontrará alguns dos meus pr
 
 Uma calculadora simples desenvolvida em React, com um design moderno usando fundos roxos e pretos.
 
-- **[Repositório do projeto](https://github.com/said7388/calculadora-react)**
-- **[Demonstração](https://said7388.github.io/calculadora-react)**
+- **[Repositório do projeto](https://github.com/Mayronmalaquias/Calculadora)**
+- **[Demonstração](https://mayronmalaquias.github.io/Calculadora/)**
 
 ### 2. 📚 Pokédex Interativa
 
 Uma Pokédex web onde você pode interagir com itens e obter informações detalhadas em popups centralizados na tela.
 
-- **[Repositório do projeto](https://github.com/said7388/pokedex-web)**
-- **[Demonstração](https://said7388.github.io/pokedex-web)**
+- **[Repositório do projeto](https://github.com/Mayronmalaquias/pokedex)**
+- **[Demonstração](https://mayronmalaquias.github.io/pokedex/)**
 
 ## 👨‍💻 Sobre Mim
 
