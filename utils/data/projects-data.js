@@ -10,7 +10,7 @@ export const projectsData = [
         description: "Projeto simulando uma Calculadora usando REACT: https://mayronmalaquias.github.io/Calculadora/",
         tools: ['React', 'HTML', 'CSS', 'JavaScript'],
         role: 'Frontend Developer',
-        code: '',
+        code: 'https://github.com/Mayronmalaquias/Calculadora',
         demo: 'https://mayronmalaquias.github.io/Calculadora/',
         image: crefin,
     },
@@ -20,7 +20,7 @@ export const projectsData = [
         description: 'Projeto usando uma api de pokemon para similar uma pokedex: https://mayronmalaquias.github.io/pokedex/',
         tools: ['HTML', 'CSS', "Javascript"],
         role: 'Full Stack Developer',
-        code: '',
+        code: 'https://github.com/Mayronmalaquias/pokedex',
         demo: 'https://mayronmalaquias.github.io/pokedex/',
         image: travel,
     }
