@@ -11,7 +11,7 @@ export const projectsData = [
         tools: ['React', 'HTML', 'CSS', 'JavaScript'],
         role: 'Frontend Developer',
         code: '',
-        demo: '',
+        demo: 'https://mayronmalaquias.github.io/Calculadora/',
         image: crefin,
     },
     {
@@ -21,7 +21,7 @@ export const projectsData = [
         tools: ['HTML', 'CSS', "Javascript"],
         role: 'Full Stack Developer',
         code: '',
-        demo: '',
+        demo: 'https://mayronmalaquias.github.io/pokedex/',
         image: travel,
     }
     // {
