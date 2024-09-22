@@ -1,7 +1,7 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Estagiario',
+    title: 'Estagiario em Ciência de Dados',
     company: "61 imóveis",
     duration: "(Março 2023 - Present)"
   }
